@@ -1,0 +1,5 @@
+Credentials cache: API:3D00EBA5-B8E3-4039-96FE-AB1B19BD27B8
+        Principal: aberneli@42LYON.FR
+
+  Issued                Expires               Principal
+Aug  2 11:04:30 2021  Aug  3 11:04:30 2021  krbtgt/42LYON.FR@42LYON.FR
